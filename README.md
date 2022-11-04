@@ -42,6 +42,14 @@ yarn dev
 - AIML based Recommendation Engine and Revenue/ Churn management
 
 ## Roadmap
+- Bidding
+- Enhancements for service providers
+- Enhancement for loyalty
+- Enhance Subscription management
+- Dashboards
+- Statistics
+- Integration with other marketplace
+
 
 ## Deploy on Vercel
 
