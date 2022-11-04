@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# N1ce.io
+N1CE.IO is building a set of crypto native web 3.0 tools for subscription and management.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
 npx hardhat node
+
 npx hardhat run scripts/deploy.js
 ```
