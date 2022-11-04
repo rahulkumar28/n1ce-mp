@@ -1,11 +1,21 @@
 # N1ce.io
 N1CE.IO is building a set of crypto native web 3.0 tools for subscription and management.
 
+The NFT serves as token for subscri
 
-Try running some of the following tasks:
 
 ## Environment
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+- JavaScritp
+- React
+- Solidity - ERC721/ERC1155 based Token
+- Openzepllin
+- Axios
+- Web3Modal
+- ethers
+- ipfs and ipfs-http-client
+
 
 ## Getting Started
 
