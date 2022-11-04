@@ -9,6 +9,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Download the packages
+```bash
+npm update
+# or
+yarn update
+```
+
 First, run the development server:
 
 ```bash
