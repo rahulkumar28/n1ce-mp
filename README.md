@@ -1,8 +1,7 @@
 # N1ce.io
-N1CE.IO is building a set of crypto native web 3.0 tools for subscription and management.
+N1CE.IO is building a set of crypto native web 3.0 tools for subscription and management of token for digital asset and services.
 
-The NFT serves as token for subscri
-
+The NFT serves as token as means to access the digital asset and services that follows one-time or subscription based model.
 
 ## Environment
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -49,6 +48,9 @@ yarn dev
 - Dashboards
 - Statistics
 - Integration with other marketplace
+- Add more subscription models
+- Flexibility to handle different types of asset and services
+- Incorporate features with ERC1155 token standards
 
 
 ## Deploy on Vercel
