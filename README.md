@@ -7,8 +7,7 @@ The NFT serves as token for subscri
 ## Environment
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-- JavaScritp
-- React
+- ReactJS/NextJS
 - Solidity - ERC721/ERC1155 based Token
 - Openzepllin
 - Axios
